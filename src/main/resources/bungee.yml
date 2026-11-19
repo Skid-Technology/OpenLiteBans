@@ -1,0 +1,6 @@
+name: LiteBans
+version: 2.19.0
+author: Ruan
+description: Lightweight banning plugin with full UUID support.
+main: litebans.BungeePlugin
+softDepends: [ServerListPlus]
